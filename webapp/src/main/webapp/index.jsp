@@ -5,7 +5,7 @@ This is a title line to update the file :)
     <p>Please fill in this form to create an account.</p>
     <hr>
     <br/> 
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Enter password</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     <br/>
@@ -18,7 +18,7 @@ This is a title line to update the file :)
     <br>
 
     <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <input type="password" placeholder="Enter name" name="psw" id="psw" required>
     <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
